@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Name')
-
-st.write('Hello world!')
+st.title('Belto-B')
+# st.title('')
+st.write('Product work on image/video analysis model')
